@@ -1,2 +1,2 @@
 # fabiocaprarella.github.io
-Fabio Caprarella's Blog
+Fabio Caprarella's Spaghetti Code Club Band
