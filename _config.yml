@@ -1,0 +1,8 @@
+title: Fabio Caprarella's Spaghetti Code Club Band
+description: Fabio Caprarella
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
