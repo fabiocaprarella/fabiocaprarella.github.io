@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website of Fabio Caprarella</title>
+    <link>https://fabiocaprarella.com/</link>
+    <description>Recent content on Website of Fabio Caprarella</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Mar 2021 15:52:18 +0100</lastBuildDate><atom:link href="https://fabiocaprarella.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://fabiocaprarella.com/posts/hello-world/</link>
+      <pubDate>Mon, 01 Mar 2021 15:52:18 +0100</pubDate>
+      
+      <guid>https://fabiocaprarella.com/posts/hello-world/</guid>
+      <description>Hello World!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fabiocaprarella.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabiocaprarella.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://fabiocaprarella.com/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabiocaprarella.com/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://fabiocaprarella.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabiocaprarella.com/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.</description>
+    </item>
+    
+  </channel>
+</rss>
